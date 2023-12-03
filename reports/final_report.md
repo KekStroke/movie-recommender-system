@@ -108,7 +108,9 @@ User 877:
 * Watched Movies (Top 10):
 ![image](figures/results_showcase/watched_877.png)
 
-*Top 10 Recommended Movies:
+* Top 10 Recommended Movies:
 ![image](figures/results_showcase/recommendations_877.png)
 
-Explore additional cases in the latter part of the `2.0-final-solution.ipynb` notebook. These showcases highlight the personalized movie recommendations for individual users based on their watching history.
+**Observation**: Similar to User 726, User 877 receives recommendations that share genre similarities with their watched movies, emphasizing the model's ability to capture user preferences.
+
+**Note**: Further cases and insights can be explored in the latter sections of the `2.0-final-solution.ipynb` notebook. The recommendation system shows promising potential, particularly in aligning recommendations with users' genre preferences.
