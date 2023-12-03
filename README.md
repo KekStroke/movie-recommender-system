@@ -10,14 +10,14 @@ Install all required packages with
 pip install -r requirements.txt
 ```
 
-### Model weights
-
-### Raw data
-
-# Prepare Data
-
-# Train model
-
-# Inference
-
-# Miscellaneous
+# Benchmark
+### Run benchmark
+Run benchmark with
+```bash
+python .\benchmark\evaluate.py
+```
+### Result
+```
+MAP score: 0.1794
+NDCG score: 0.2126
+```
